@@ -2,6 +2,10 @@
 
 A responsive admin-only cat sitting management prototype created for the IMS566 Advanced Web Design Development and Content Management individual project.
 
+## GitHub Pages
+- **Live site:** https://raudahchan.github.io/PawCare/
+- **GitHub repository:** https://github.com/raudahchan/PawCare
+  
 ## Main features
 - Hardcoded admin login with error feedback
 - Responsive left-side slide-out navigation
